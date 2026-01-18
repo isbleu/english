@@ -1321,7 +1321,15 @@
 
         // 错题集管理
         function loadWrongQuestions() {
-            const saved = getCookie('wrongQuestions');
+            let saved = localStorage.getItem('wrongQuestions');
+            // 如果 localStorage 为空，尝试从 Cookie 迁移
+            if (!saved) {
+                const cookieData = getCookie('wrongQuestions');
+                if (cookieData) {
+                    localStorage.setItem('wrongQuestions', cookieData);
+                    saved = cookieData;
+                }
+            }
             if (saved) {
                 try {
                     wrongQuestions = JSON.parse(saved);
@@ -1332,7 +1340,7 @@
         }
 
         function saveWrongQuestions() {
-            setCookie('wrongQuestions', JSON.stringify(wrongQuestions), 365); // 保存一年
+            localStorage.setItem('wrongQuestions', JSON.stringify(wrongQuestions));
         }
 
         function getWrongQuestions() {
