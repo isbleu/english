@@ -1,524 +1,1044 @@
 {
-  "data": [
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在两点开始"
-      },
-      "answers": [
-        "begin at two o'clock"
-      ],
-      "analysis": "具体时刻前用介词at，o'clock用于整点后",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "我最喜欢的颜色"
-      },
-      "answers": [
-        "my favourite colour"
-      ],
-      "analysis": "favourite为形容词，修饰名词colour，英式拼写colour",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "带来或穿着"
-      },
-      "answers": [
-        "bring or wear"
-      ],
-      "analysis": "bring表带来，wear表穿着，并列用or连接",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "我的生日聚会"
-      },
-      "answers": [
-        "my birthday party"
-      ],
-      "analysis": "birthday作定语修饰party，表所属用途",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "一条裤子"
-      },
-      "answers": [
-        "a pair of trousers"
-      ],
-      "analysis": "trousers为复数，表数量用a pair of",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "一份请柬"
-      },
-      "answers": [
-        "an invitation"
-      ],
-      "analysis": "invitation以元音音素开头，用不定冠词an",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "他的生日礼物"
-      },
-      "answers": [
-        "his birthday present"
-      ],
-      "analysis": "形容词性物主代词his修饰birthday present",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "一顶漂亮的新帽子"
-      },
-      "answers": [
-        "a smart new hat"
-      ],
-      "analysis": "形容词顺序：描绘性+新旧+名词，smart表漂亮的",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "来学校"
-      },
-      "answers": [
-        "come to school"
-      ],
-      "analysis": "come后接地点名词需加介词to，school表泛指不加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "步行"
-      },
-      "answers": [
-        "on foot"
-      ],
-      "analysis": "固定搭配，foot用单数形式，不加冠词",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "乘地铁"
-      },
-      "answers": [
-        "by underground"
-      ],
-      "analysis": "by+交通工具表出行方式，交通工具不加冠词",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在人行道上"
-      },
-      "answers": [
-        "on the pavement"
-      ],
-      "analysis": "pavement为特指，前加定冠词the，用介词on",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "到达学校"
-      },
-      "answers": [
-        "arrive at school"
-      ],
-      "analysis": "arrive at后接小地点，school为小地点",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "住在学校附近"
-      },
-      "answers": [
-        "live near school"
-      ],
-      "analysis": "near为介词，后直接接地点名词，school表泛指",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "离开家"
-      },
-      "answers": [
-        "leave home"
-      ],
-      "analysis": "home为地点副词，前不加介词，表泛指不加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在大约七点三十"
-      },
-      "answers": [
-        "at about seven thirty"
-      ],
-      "analysis": "具体时刻前用at，about表大约，放时刻前",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "问和答"
-      },
-      "answers": [
-        "ask and answer"
-      ],
-      "analysis": "并列动词用and连接，均用原形",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "过马路"
-      },
-      "answers": [
-        "cross the road"
-      ],
-      "analysis": "cross为动词，road为特指，前加定冠词the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "等候绿灯"
-      },
-      "answers": [
-        "wait for the green light"
-      ],
-      "analysis": "固定搭配wait for，green light为特指加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "快步走"
-      },
-      "answers": [
-        "walk quickly"
-      ],
-      "analysis": "quickly为副词，修饰动词walk放其后",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在红绿灯处"
-      },
-      "answers": [
-        "at traffic lights"
-      ],
-      "analysis": "traffic lights常用复数，在某处用介词at",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在斑马线"
-      },
-      "answers": [
-        "at zebra crossings"
-      ],
-      "analysis": "zebra crossing为可数名词，表泛指用复数，用介词at",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "一个地铁站"
-      },
-      "answers": [
-        "an underground station"
-      ],
-      "analysis": "underground以元音音素开头，用不定冠词an",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "下地铁"
-      },
-      "answers": [
-        "get off the train"
-      ],
-      "analysis": "固定搭配get off表下车，train代指地铁列车加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "他上班的行程"
-      },
-      "answers": [
-        "his journey to work"
-      ],
-      "analysis": "journey to+地点表去某地的行程，work为地点副词",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "开飞机"
-      },
-      "answers": [
-        "fly an aeroplane"
-      ],
-      "analysis": "fly为动词表驾驶，aeroplane以元音音素开头用an",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "帮助病人"
-      },
-      "answers": [
-        "help sick people"
-      ],
-      "analysis": "sick为形容词修饰people，people表复数概念",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "给学生上课"
-      },
-      "answers": [
-        "give lessons to students"
-      ],
-      "analysis": "固定搭配give lessons to sb，表给某人上课",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "卖东西给人们"
-      },
-      "answers": [
-        "sell things to people"
-      ],
-      "analysis": "固定搭配sell sth to sb，表把某物卖给某人",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "种蔬菜"
-      },
-      "answers": [
-        "grow vegetables"
-      ],
-      "analysis": "grow为动词表种植，vegetables表泛指用复数",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "售货员还是飞行员"
-      },
-      "answers": [
-        "a shop assistant or a pilot"
-      ],
-      "analysis": "两个单数职业名词并列，各前加不定冠词a",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "工人还是农民"
-      },
-      "answers": [
-        "a worker or a farmer"
-      ],
-      "analysis": "两个单数职业名词并列，各前加不定冠词a",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "梦想中的工作"
-      },
-      "answers": [
-        "dream jobs"
-      ],
-      "analysis": "dream作定语修饰jobs，表泛指用复数形式",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在将来"
-      },
-      "answers": [
-        "in the future"
-      ],
-      "analysis": "固定短语，future前必须加定冠词the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "在家工作"
-      },
-      "answers": [
-        "work at home"
-      ],
-      "analysis": "home为地点副词，前加at表具体的家，不加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "环游世界"
-      },
-      "answers": [
-        "travel around the world"
-      ],
-      "analysis": "固定搭配，world为独一无二的事物，前加the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "害怕。。。"
-      },
-      "answers": [
-        "be afraid of"
-      ],
-      "analysis": "固定短语，of为介词，后接名词/代词/动名词",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "擅长。。。"
-      },
-      "answers": [
-        "be good at"
-      ],
-      "analysis": "固定短语，at为介词，后接名词/代词/动名词",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "救起小鸡"
-      },
-      "answers": [
-        "save the chick"
-      ],
-      "analysis": "save为动词表救起，chick为特指加定冠词the",
-      "tags": [
-        "Module 1"
-      ]
-    },
-    {
-      "type": "spelling",
-      "content": {
-        "original": "救生员和旅行家"
-      },
-      "answers": [
-        "a lifeguard and a traveller"
-      ],
-      "analysis": "两个单数职业名词并列，各前加不定冠词a，traveller为英式拼写",
-      "tags": [
-        "Module 1"
-      ]
-    }
-  ]
+    "data": [
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在两点开始"
+            },
+            "answers": [
+                "begin at two o’clock"
+            ],
+            "analysis": "具体时刻前用介词at，o’clock用于整点后",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "我最喜欢的颜色"
+            },
+            "answers": [
+                "my favourite colour"
+            ],
+            "analysis": "favourite为形容词，修饰名词colour，英式拼写colour",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "带来或穿着"
+            },
+            "answers": [
+                "bring or wear"
+            ],
+            "analysis": "bring表带来，wear表穿着，并列用or连接",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "我的生日聚会"
+            },
+            "answers": [
+                "my birthday party"
+            ],
+            "analysis": "birthday作定语修饰party，表所属用途",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一条裤子"
+            },
+            "answers": [
+                "a pair of trousers"
+            ],
+            "analysis": "trousers为复数，表数量用a pair of",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一份请柬"
+            },
+            "answers": [
+                "an invitation"
+            ],
+            "analysis": "invitation以元音音素开头，用不定冠词an",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "他的生日礼物"
+            },
+            "answers": [
+                "his birthday present"
+            ],
+            "analysis": "形容词性物主代词his修饰birthday present",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一顶漂亮的新帽子"
+            },
+            "answers": [
+                "a smart new hat"
+            ],
+            "analysis": "形容词顺序：描绘性+新旧+名词，smart表漂亮的",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "来学校"
+            },
+            "answers": [
+                "come to school"
+            ],
+            "analysis": "come后接地点名词需加介词to，school表泛指不加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "步行"
+            },
+            "answers": [
+                "on foot"
+            ],
+            "analysis": "固定搭配，foot用单数形式，不加冠词",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "乘地铁"
+            },
+            "answers": [
+                "by underground"
+            ],
+            "analysis": "by+交通工具表出行方式，交通工具不加冠词",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在人行道上"
+            },
+            "answers": [
+                "on the pavement"
+            ],
+            "analysis": "pavement为特指，前加定冠词the，用介词on",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "到达学校"
+            },
+            "answers": [
+                "arrive at school"
+            ],
+            "analysis": "arrive at后接小地点，school为小地点",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "住在学校附近"
+            },
+            "answers": [
+                "live near school"
+            ],
+            "analysis": "near为介词，后直接接地点名词，school表泛指",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "离开家"
+            },
+            "answers": [
+                "leave home"
+            ],
+            "analysis": "home为地点副词，前不加介词，表泛指不加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在大约七点三十"
+            },
+            "answers": [
+                "at about seven thirty"
+            ],
+            "analysis": "具体时刻前用at，about表大约，放时刻前",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "问和答"
+            },
+            "answers": [
+                "ask and answer"
+            ],
+            "analysis": "并列动词用and连接，均用原形",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "过马路"
+            },
+            "answers": [
+                "cross the road"
+            ],
+            "analysis": "cross为动词，road为特指，前加定冠词the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "等候绿灯"
+            },
+            "answers": [
+                "wait for the green light"
+            ],
+            "analysis": "固定搭配wait for，green light为特指加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "快步走"
+            },
+            "answers": [
+                "walk quickly"
+            ],
+            "analysis": "quickly为副词，修饰动词walk放其后",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在红绿灯处"
+            },
+            "answers": [
+                "at traffic lights"
+            ],
+            "analysis": "traffic lights常用复数，在某处用介词at",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在斑马线"
+            },
+            "answers": [
+                "at zebra crossings"
+            ],
+            "analysis": "zebra crossing为可数名词，表泛指用复数，用介词at",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一个地铁站"
+            },
+            "answers": [
+                "an underground station"
+            ],
+            "analysis": "underground以元音音素开头，用不定冠词an",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "下地铁"
+            },
+            "answers": [
+                "get off the train"
+            ],
+            "analysis": "固定搭配get off表下车，train代指地铁列车加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "他上班的行程"
+            },
+            "answers": [
+                "his journey to work"
+            ],
+            "analysis": "journey to+地点表去某地的行程，work为地点副词",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "开飞机"
+            },
+            "answers": [
+                "fly an aeroplane"
+            ],
+            "analysis": "fly为动词表驾驶，aeroplane以元音音素开头用an",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "帮助病人"
+            },
+            "answers": [
+                "help sick people"
+            ],
+            "analysis": "sick为形容词修饰people，people表复数概念",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "给学生上课"
+            },
+            "answers": [
+                "give lessons to students"
+            ],
+            "analysis": "固定搭配give lessons to sb，表给某人上课",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "卖东西给人们"
+            },
+            "answers": [
+                "sell things to people"
+            ],
+            "analysis": "固定搭配sell sth to sb，表把某物卖给某人",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "种蔬菜"
+            },
+            "answers": [
+                "grow vegetables"
+            ],
+            "analysis": "grow为动词表种植，vegetables表泛指用复数",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "售货员还是飞行员"
+            },
+            "answers": [
+                "a shop assistant or a pilot"
+            ],
+            "analysis": "两个单数职业名词并列，各前加不定冠词a",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "工人还是农民"
+            },
+            "answers": [
+                "a worker or a farmer"
+            ],
+            "analysis": "两个单数职业名词并列，各前加不定冠词a",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "梦想中的工作"
+            },
+            "answers": [
+                "dream jobs"
+            ],
+            "analysis": "dream作定语修饰jobs，表泛指用复数形式",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在将来"
+            },
+            "answers": [
+                "in the future"
+            ],
+            "analysis": "固定短语，future前必须加定冠词the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在家工作"
+            },
+            "answers": [
+                "work at home"
+            ],
+            "analysis": "home为地点副词，前加at表具体的家，不加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "环游世界"
+            },
+            "answers": [
+                "travel around the world"
+            ],
+            "analysis": "固定搭配，world为独一无二的事物，前加the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "害怕。。。"
+            },
+            "answers": [
+                "be afraid of"
+            ],
+            "analysis": "固定短语，of为介词，后接名词/代词/动名词",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "擅长。。。"
+            },
+            "answers": [
+                "be good at"
+            ],
+            "analysis": "固定短语，at为介词，后接名词/代词/动名词",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "救起小鸡"
+            },
+            "answers": [
+                "save the chick"
+            ],
+            "analysis": "save为动词表救起，chick为特指加定冠词the",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "救生员和旅行家"
+            },
+            "answers": [
+                "a lifeguard and a traveller"
+            ],
+            "analysis": "两个单数职业名词并列，各前加不定冠词a，traveller为英式拼写",
+            "tags": [
+                "Module 1"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一周一次"
+            },
+            "answers": [
+                "once a week"
+            ],
+            "analysis": "表频率的固定结构：次数+a+时间单位",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "每月两次"
+            },
+            "answers": [
+                "twice a month"
+            ],
+            "analysis": "两次用twice表示，频率结构：次数+a+时间单位",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一年三次"
+            },
+            "answers": [
+                "three times a year"
+            ],
+            "analysis": "三次及以上用“数词+times”，频率结构固定",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "和他下棋"
+            },
+            "answers": [
+                "play chess with him"
+            ],
+            "analysis": "play后接棋类不加the，with后接宾格him",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在周末"
+            },
+            "answers": [
+                "at weekends"
+            ],
+            "analysis": "英式表达at weekends，weekend用复数表泛指",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "给他们写邮件"
+            },
+            "answers": [
+                "write e-mails to them"
+            ],
+            "analysis": "固定搭配write sth to sb，them为宾格，e-mail用复数表泛指",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "和她在网上交谈"
+            },
+            "answers": [
+                "talk to her on the Internet"
+            ],
+            "analysis": "talk to sb后接宾格her，on the Internet为固定搭配，加the",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "去购物"
+            },
+            "answers": [
+                "go shopping"
+            ],
+            "analysis": "固定搭配go+动名词，表从事某项活动",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "小红帽"
+            },
+            "answers": [
+                "Little Red Riding Hood"
+            ],
+            "analysis": "专有名词，每个实词首字母大写，固定译法",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "感冒"
+            },
+            "answers": [
+                "have a cold"
+            ],
+            "analysis": "固定短语，cold前必须加不定冠词a",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "敲门"
+            },
+            "answers": [
+                "knock at the door"
+            ],
+            "analysis": "固定搭配knock at+门窗，door为特指加the",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "（集体）外出游玩"
+            },
+            "answers": [
+                "go on an outing"
+            ],
+            "analysis": "固定搭配go on an outing，outing以元音音素开头用an",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "爬山"
+            },
+            "answers": [
+                "climb mountains"
+            ],
+            "analysis": "mountain用复数表泛指爬山这项活动，不加冠词",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "去看花展"
+            },
+            "answers": [
+                "go to see flower shows"
+            ],
+            "analysis": "flower show为可数名词，表泛指用复数形式",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在同一个学校"
+            },
+            "answers": [
+                "at the same school"
+            ],
+            "analysis": "same前必须加定冠词the，小地点前用介词at",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在不同的班级"
+            },
+            "answers": [
+                "in different classes"
+            ],
+            "analysis": "different后接可数名词复数，班级前用介词in",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "互相"
+            },
+            "answers": [
+                "each other"
+            ],
+            "analysis": "固定代词短语，表两者之间的互相",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "喜欢在一起"
+            },
+            "answers": [
+                "like to be together"
+            ],
+            "analysis": "固定搭配like to do sth，together为副词作表语",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一场足球赛"
+            },
+            "answers": [
+                "a football match"
+            ],
+            "analysis": "football以辅音音素开头，用不定冠词a",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "中场休息"
+            },
+            "answers": [
+                "the half-time"
+            ],
+            "analysis": "特指比赛的中场休息，前加定冠词the",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "俱乐部成员"
+            },
+            "answers": [
+                "members of the club"
+            ],
+            "analysis": "表所属用of结构，club为特指加the，member用复数",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "两个队都"
+            },
+            "answers": [
+                "both teams"
+            ],
+            "analysis": "both后接可数名词复数，表两者都",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "搬家"
+            },
+            "answers": [
+                "move home"
+            ],
+            "analysis": "home为地点副词，前不加介词，move表搬迁",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "对。。。满意"
+            },
+            "answers": [
+                "be happy with"
+            ],
+            "analysis": "固定短语，with后接满意的对象",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "哪个房间"
+            },
+            "answers": [
+                "which room"
+            ],
+            "analysis": "which为疑问词，后直接接单数名词room",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "朝南"
+            },
+            "answers": [
+                "face south"
+            ],
+            "analysis": "face为动词表朝向，south为方位副词，前不加the",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "大量阳光"
+            },
+            "answers": [
+                "a lot of sunshine"
+            ],
+            "analysis": "a lot of可修饰不可数名词，sunshine为不可数名词",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一个安静的书房"
+            },
+            "answers": [
+                "a quiet study"
+            ],
+            "analysis": "quiet以辅音音素开头用a，study此处为名词表书房",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "东还是西"
+            },
+            "answers": [
+                "east or west"
+            ],
+            "analysis": "east和west为方位名词，表泛指不加the，用or连接",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "合用一个卧室"
+            },
+            "answers": [
+                "share a bedroom"
+            ],
+            "analysis": "share为动词表共用，bedroom以辅音音素开头用a",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "透过窗户"
+            },
+            "answers": [
+                "through the window"
+            ],
+            "analysis": "through表从内部穿过，window为特指加the",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "离。。。很远"
+            },
+            "answers": [
+                "be far from"
+            ],
+            "analysis": "固定短语，far from后接地点名词或代词",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "花费二十分钟"
+            },
+            "answers": [
+                "take twenty minutes"
+            ],
+            "analysis": "take表花费时间，分钟数大于一用复数minutes",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "大雁"
+            },
+            "answers": [
+                "a wild goose"
+            ],
+            "analysis": "wild goose为可数名词单数，goose单数形式，用a修饰",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "大雁（复数）"
+            },
+            "answers": [
+                "wild geese"
+            ],
+            "analysis": "goose的复数为不规则变化geese，表泛指不加冠词",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "足够的食物"
+            },
+            "answers": [
+                "enough food"
+            ],
+            "analysis": "enough修饰不可数名词food，放名词前",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "想念它们的家"
+            },
+            "answers": [
+                "miss their home"
+            ],
+            "analysis": "their为形容词性物主代词，修饰名词home",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "飞向北方"
+            },
+            "answers": [
+                "fly to the north"
+            ],
+            "analysis": "north为名词，fly to后接地点名词，加the表特指方位",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "搬家"
+            },
+            "answers": [
+                "change homes"
+            ],
+            "analysis": "change表更换，home此处为可数名词，用复数表泛指",
+            "tags": [
+                "Module 2"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "每年"
+            },
+            "answers": [
+                "every year"
+            ],
+            "analysis": "every后接单数名词year，中间不加冠词",
+            "tags": [
+                "Module 2"
+            ]
+        }
+    ]
 }
