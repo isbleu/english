@@ -1121,7 +1121,13 @@
                 <label>题目数量</label>
                 <input type="number" id="questionCount" value="10" min="1">
             </div>
-            
+
+            <div class="control-row">
+                <label>模式选择</label>
+                <label><input type="radio" name="practiceMode" value="practice" checked> 学习模式（可查看答案）</label>
+                <label><input type="radio" name="practiceMode" value="test"> 测试模式（无答案按钮）</label>
+            </div>
+
             <div class="control-row">
                 <label for="wrongQuestionsOnly">仅错题</label>
                 <input type="checkbox" id="wrongQuestionsOnly">
@@ -1220,6 +1226,7 @@
         let incorrectCount = 0;
         let wrongQuestions = []; // 错题集
         let questionStatus = []; // 跟踪每个题目的状态：null=未作答, true=正确, false=错误
+        let currentPracticeMode = 'practice'; // 学习模式：'practice'=学习模式, 'test'=测试模式
 
         // 加载数据
         async function loadData() {
@@ -1971,10 +1978,15 @@
                 answerInput.value = userAnswers[currentQuestionIndex];
             }
             
-            // 显示显示答案按钮
+            // 显示显示答案按钮（仅在学习模式下）
             const showAnswerBtn = document.getElementById('showAnswerBtn');
-            showAnswerBtn.style.display = 'block';
-            showAnswerBtn.textContent = '答案';
+            if (currentPracticeMode === 'practice') {
+                showAnswerBtn.style.display = 'block';
+                showAnswerBtn.textContent = '答案';
+            } else {
+                // 测试模式下隐藏答案按钮
+                showAnswerBtn.style.display = 'none';
+            }
             
             // 显示交卷按钮（当有题目时）
             const submitBtn = document.getElementById('submitBtn');
@@ -2881,12 +2893,14 @@
             const questionCount = parseInt(document.getElementById('questionCount').value);
             const wrongQuestionsOnly = document.getElementById('wrongQuestionsOnly').checked;
             const randomQuestions = document.getElementById('randomQuestions').checked;
+            const practiceMode = document.querySelector('input[name="practiceMode"]:checked').value;
 
             console.log('选择的练习类型:', practiceType);
             console.log('选择的单元:', unitSelect);
             console.log('题目数量:', questionCount);
             console.log('错题集练习:', wrongQuestionsOnly);
             console.log('随机出题:', randomQuestions);
+            console.log('练习模式:', practiceMode === 'practice' ? '学习模式' : '测试模式');
 
             if (!allData) {
                 alert('数据还未加载完成，请稍后再试');
@@ -2958,6 +2972,7 @@
             currentQuestionIndex = 0;
             correctCount = 0;
             incorrectCount = 0;
+            currentPracticeMode = practiceMode; // 设置学习模式
 
             // 初始化题目状态数组
             questionStatus = new Array(currentQuestions.length).fill(null);
