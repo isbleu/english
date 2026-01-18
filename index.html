@@ -1239,6 +1239,19 @@
                 }
                 
                 allData = await response.json();
+
+                // 为每个题目生成唯一ID
+                if (allData.data && Array.isArray(allData.data)) {
+                    allData.data.forEach((q, index) => {
+                        if (!q.id) {
+                            const contentKey = q.type === 'multiple_choice' ? 'question' : 'original';
+                            const contentValue = q.content?.[contentKey] || '';
+                            // 使用类型、索引和内容哈希生成唯一ID
+                            q.id = `${q.type}_${index}_${hashCode(contentValue)}`;
+                        }
+                    });
+                }
+
                 console.log('数据加载成功，共', allData.count || allData.data?.length, '道题目');
 
                 // 数据加载完成后更新题型和单元选项
@@ -1251,6 +1264,18 @@
                 try {
                     console.log('尝试使用XMLHttpRequest加载数据...');
                     allData = await loadDataWithXHR();
+
+                    // 为每个题目生成唯一ID
+                    if (allData.data && Array.isArray(allData.data)) {
+                        allData.data.forEach((q, index) => {
+                            if (!q.id) {
+                                const contentKey = q.type === 'multiple_choice' ? 'question' : 'original';
+                                const contentValue = q.content?.[contentKey] || '';
+                                q.id = `${q.type}_${index}_${hashCode(contentValue)}`;
+                            }
+                        });
+                    }
+
                     console.log('XMLHttpRequest加载成功，共', allData.count || allData.data?.length, '道题目');
                     renderPracticeTypeOptions();
                     renderUnitOptions();
@@ -1295,6 +1320,17 @@
                 };
                 xhr.send();
             });
+        }
+
+        // 简单字符串哈希函数，用于生成ID
+        function hashCode(str) {
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                const char = str.charCodeAt(i);
+                hash = ((hash << 5) - hash) + char;
+                hash = hash & hash; // Convert to 32bit integer
+            }
+            return hash.toString(36);
         }
 
         // Cookie 操作函数
@@ -1444,10 +1480,7 @@
             if (!currentQuestion) return;
 
             // 检查是否已经存在
-            const exists = wrongQuestions.some(q => 
-                q.type === currentQuestion.type && 
-                q.content.original === currentQuestion.content.original
-            );
+            const exists = wrongQuestions.some(q => q.id === currentQuestion.id);
 
             if (!exists) {
                 wrongQuestions.push({
@@ -1472,10 +1505,7 @@
             if (!currentQuestion) return;
 
             // 检查是否已经存在
-            const exists = wrongQuestions.some(q => 
-                q.type === currentQuestion.type && 
-                q.content.original === currentQuestion.content.original
-            );
+            const exists = wrongQuestions.some(q => q.id === currentQuestion.id);
 
             if (!exists) {
                 wrongQuestions.push({
@@ -1495,10 +1525,7 @@
         // 交卷时自动将错题加入错题集
         function autoAddWrongQuestionToCollection(question, userAnswer) {
             // 检查是否已经存在
-            const exists = wrongQuestions.some(q => 
-                q.type === question.type && 
-                q.content.original === question.content.original
-            );
+            const exists = wrongQuestions.some(q => q.id === question.id);
 
             if (!exists) {
                 wrongQuestions.push({
