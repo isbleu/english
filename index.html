@@ -269,10 +269,16 @@
             border-radius: 4px !important;
             cursor: pointer !important;
             font-size: 0.85rem !important;
+            font-weight: normal !important;
             transition: all 0.2s ease !important;
-            margin-left: 8px !important;
-            min-width: 80px !important;
+            width: 80px !important;
             white-space: nowrap !important;
+            height: 34px !important;
+            line-height: 1 !important;
+            box-sizing: border-box !important;
+            align-self: center !important;
+            vertical-align: middle !important;
+            text-align: center !important;
         }
         
         #prevBtn:hover, #nextBtn:hover {
@@ -808,9 +814,16 @@
             border-radius: 4px !important;
             cursor: pointer !important;
             font-size: 0.85rem !important;
+            font-weight: normal !important;
             transition: all 0.2s ease !important;
-            min-width: 80px !important;
+            width: 80px !important;
             white-space: nowrap !important;
+            height: 34px !important;
+            line-height: 1 !important;
+            box-sizing: border-box !important;
+            align-self: center !important;
+            vertical-align: middle !important;
+            text-align: center !important;
         }
         
         .show-answer-btn:hover {
@@ -826,16 +839,22 @@
             border-radius: 4px !important;
             cursor: pointer !important;
             font-size: 0.85rem !important;
-            font-weight: 500 !important;
+            font-weight: normal !important;
             transition: all 0.2s ease !important;
-            min-width: 80px !important;
+            width: 80px !important;
             white-space: nowrap !important;
+            height: 34px !important;
+            line-height: 1 !important;
+            box-sizing: border-box !important;
+            align-self: center !important;
+            vertical-align: middle !important;
+            text-align: center !important;
         }
-        
+
         .submit-btn:hover {
             background: #e55a2b !important;
         }
-        
+
         /* 设置按钮样式 */
         .settings-btn {
             background: #6c757d !important;
@@ -845,14 +864,84 @@
             border-radius: 4px !important;
             cursor: pointer !important;
             font-size: 0.85rem !important;
-            font-weight: 500 !important;
+            font-weight: normal !important;
             transition: all 0.2s ease !important;
-            min-width: 80px !important;
+            width: 80px !important;
             white-space: nowrap !important;
+            height: 34px !important;
+            line-height: 1 !important;
+            box-sizing: border-box !important;
+            align-self: center !important;
+            vertical-align: middle !important;
+            text-align: center !important;
         }
         
         .settings-btn:hover {
             background: #5a6268 !important;
+        }
+
+        /* 加入错题本按钮样式 */
+        .add-to-wrong-btn {
+            background: #dc3545 !important;
+            color: white !important;
+            border: none !important;
+            padding: 6px 12px !important;
+            border-radius: 4px !important;
+            cursor: pointer !important;
+            font-size: 0.85rem !important;
+            font-weight: normal !important;
+            transition: all 0.2s ease !important;
+            width: 100px !important;
+            white-space: nowrap !important;
+            height: 34px !important;
+            line-height: 1 !important;
+            box-sizing: border-box !important;
+            align-self: center !important;
+            vertical-align: middle !important;
+            text-align: center !important;
+        }
+
+        .add-to-wrong-btn:hover {
+            background: #c82333 !important;
+        }
+
+        .add-to-wrong-btn.added {
+            background: #6c757d !important;
+            cursor: default !important;
+        }
+
+        /* 结果页加入错题本按钮样式 */
+        .add-result-to-wrong-btn {
+            background: #dc3545;
+            color: white;
+            border: none;
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .add-result-to-wrong-btn:hover:not(:disabled) {
+            background: #c82333;
+        }
+
+        /* 按钮容器样式 */
+        .button-container {
+            display: flex !important;
+            flex-direction: row !important;
+            gap: 8px !important;
+            margin-top: 12px !important;
+            justify-content: center !important;
+            align-items: center !important;
+            flex-wrap: nowrap !important;
+            min-height: 34px !important;
+        }
+
+        .button-container button {
+            flex-shrink: 0 !important;
+            margin: 0 !important;
         }
         
         /* 通用按钮文字不换行样式 */
@@ -1158,8 +1247,8 @@
                         <div class="question-header-left">
                             <div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 8px; white-space: nowrap;">
                                 <div class="question-type" id="questionType">单词拼写</div>
-                                <button id="settingsBtn" class="settings-btn" style="display: none;">设置</button>
-                                <button id="submitBtn" class="submit-btn" style="display: none;">交卷</button>
+                                <button id="settingsBtn" class="settings-btn hidden">设置</button>
+                                <button id="submitBtn" class="submit-btn hidden">交卷</button>
                             </div>
                             <div class="question-stats">
                                 <span class="current-total">[<span id="currentQuestion">1</span>/<span id="totalQuestions">10</span>]</span>
@@ -1174,10 +1263,11 @@
                     </div>
                     <div id="answerInputContainer"></div>
                     <div id="feedback" class="feedback hidden"></div>
-                    <div style="display: flex; gap: 8px; margin-top: 12px; justify-content: center; align-items: center; flex-wrap: nowrap;">
+                    <div id="buttonContainer" class="button-container">
                         <button id="prevBtn" class="hidden">上一题</button>
                         <button id="nextBtn" class="hidden">下一题</button>
-                        <button id="showAnswerBtn" class="show-answer-btn" style="display: none;">答案</button>
+                        <button id="showAnswerBtn" class="show-answer-btn hidden">答案</button>
+                        <button id="addToWrongBtn" class="add-to-wrong-btn hidden">加入错题本</button>
                     </div>
                     <div id="feedback" class="feedback hidden" style="margin-top: 8px; text-align: center;"></div>
                 </div>
@@ -1227,6 +1317,8 @@
         let wrongQuestions = []; // 错题集
         let questionStatus = []; // 跟踪每个题目的状态：null=未作答, true=正确, false=错误
         let currentPracticeMode = 'practice'; // 学习模式：'practice'=学习模式, 'test'=测试模式
+        let questionResults = []; // 存储题目结果（结果页使用）
+        let userAnswers = []; // 存储用户答案
 
         // 加载数据
         async function loadData() {
@@ -1496,6 +1588,55 @@
                 alert('已加入错题集！');
             } else {
                 alert('该题目已在错题集中！');
+            }
+        }
+
+        // 手动将当前题目加入错题集（练习界面按钮点击）
+        function manualAddToWrongQuestions() {
+            const currentQuestion = currentQuestions[currentQuestionIndex];
+            if (!currentQuestion) return;
+
+            // 检查是否已经存在
+            const exists = wrongQuestions.some(q => q.id === currentQuestion.id);
+
+            if (!exists) {
+                const answerInput = document.getElementById('answerInput');
+                wrongQuestions.push({
+                    ...currentQuestion,
+                    addedTime: new Date().toISOString(),
+                    userAnswer: answerInput ? answerInput.value.trim() : ''
+                });
+                saveWrongQuestions();
+                // 更新练习类型选项
+                renderPracticeTypeOptions();
+                // 更新错题集标签
+                updateWrongQuestionsLabel();
+                // 更新按钮状态
+                updateAddToWrongButton();
+                alert('已加入错题集！');
+            } else {
+                alert('该题目已在错题集中！');
+            }
+        }
+
+        // 更新"加入错题本"按钮状态
+        function updateAddToWrongButton() {
+            const addToWrongBtn = document.getElementById('addToWrongBtn');
+            if (!addToWrongBtn) return;
+
+            const currentQuestion = currentQuestions[currentQuestionIndex];
+            if (!currentQuestion) return;
+
+            const exists = wrongQuestions.some(q => q.id === currentQuestion.id);
+
+            if (exists) {
+                addToWrongBtn.textContent = '已在错题本';
+                addToWrongBtn.classList.add('added');
+                addToWrongBtn.disabled = true;
+            } else {
+                addToWrongBtn.textContent = '加入错题本';
+                addToWrongBtn.classList.remove('added');
+                addToWrongBtn.disabled = false;
             }
         }
 
@@ -2016,24 +2157,30 @@
             // 显示显示答案按钮（仅在学习模式下）
             const showAnswerBtn = document.getElementById('showAnswerBtn');
             if (currentPracticeMode === 'practice') {
-                showAnswerBtn.style.display = 'block';
+                showAnswerBtn.classList.remove('hidden');
                 showAnswerBtn.textContent = '答案';
             } else {
                 // 测试模式下隐藏答案按钮
-                showAnswerBtn.style.display = 'none';
+                showAnswerBtn.classList.add('hidden');
             }
-            
+
+            // 显示加入错题本按钮
+            const addToWrongBtn = document.getElementById('addToWrongBtn');
+            addToWrongBtn.classList.remove('hidden');
+            // 更新按钮状态
+            updateAddToWrongButton();
+
             // 显示交卷按钮（当有题目时）
             const submitBtn = document.getElementById('submitBtn');
             if (currentQuestions.length > 0) {
-                submitBtn.style.display = 'block';
+                submitBtn.classList.remove('hidden');
             } else {
-                submitBtn.style.display = 'none';
+                submitBtn.classList.add('hidden');
             }
-            
+
             // 显示设置按钮
-            document.getElementById('settingsBtn').style.display = 'block';
-            
+            document.getElementById('settingsBtn').classList.remove('hidden');
+
             // 绑定回车或Ctrl+Enter事件
             if (question.type === 'sentence_translation' || question.type === 'paragraph_translation') {
                 answerInput.onkeydown = function(e) {
@@ -2491,8 +2638,6 @@
         }
 
         // 交卷功能相关变量
-        let userAnswers = []; // 存储用户答案
-        let questionResults = []; // 存储题目结果
 
         // 初始化用户答案数组
         function initializeUserAnswers() {
@@ -2676,6 +2821,11 @@
                     questionContent = questionText;
                 }
                 
+                // 检查该题目是否已在错题集中
+                const isInWrongQuestions = wrongQuestions.some(q => q.id === question.id);
+                const buttonDisabled = isInWrongQuestions ? 'disabled style="background: #6c757d; cursor: default;"' : '';
+                const buttonText = isInWrongQuestions ? '已在错题本' : '加入错题本';
+
                 html += `
                     <div class="result-item ${isCorrect ? 'correct' : 'incorrect'}">
                         <div class="result-question">
@@ -2688,8 +2838,11 @@
                             <div class="user-answer">
                                 <strong>你的答案：</strong> ${result.userAnswer || '未作答'}
                             </div>
-                            <div class="correct-answer">
-                                <strong>正确答案：</strong> ${result.correctAnswers.join(', ')}
+                            <div class="correct-answer" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
+                                <div style="flex: 1; min-width: 200px;">
+                                    <strong>正确答案：</strong> ${result.correctAnswers.join(', ')}
+                                </div>
+                                <button class="add-result-to-wrong-btn" data-index="${index}" ${buttonDisabled}>${buttonText}</button>
                             </div>
                         </div>
                     </div>
@@ -2697,6 +2850,43 @@
             });
             
             resultList.innerHTML = html;
+        }
+
+        // 将结果中的题目添加到错题集（通过索引，用于结果页按钮点击）
+        function addResultToWrongQuestionsByIndex(resultIndex) {
+            const result = questionResults[resultIndex];
+            if (!result) return;
+
+            const question = result.question;
+
+            // 检查是否已经存在
+            const exists = wrongQuestions.some(q => q.id === question.id);
+
+            if (!exists) {
+                wrongQuestions.push({
+                    ...question,
+                    addedTime: new Date().toISOString(),
+                    userAnswer: result.userAnswer
+                });
+                saveWrongQuestions();
+                // 更新练习类型选项
+                renderPracticeTypeOptions();
+                // 更新错题集标签
+                updateWrongQuestionsLabel();
+
+                // 更新按钮状态
+                const button = document.querySelector(`.add-result-to-wrong-btn[data-index="${resultIndex}"]`);
+                if (button) {
+                    button.textContent = '已在错题本';
+                    button.disabled = true;
+                    button.style.background = '#6c757d';
+                    button.style.cursor = 'default';
+                }
+
+                alert('已加入错题集！');
+            } else {
+                alert('该题目已在错题集中！');
+            }
         }
 
         // 将结果中的错题添加到错题集
@@ -2890,6 +3080,8 @@
                 } else if (e.target.id === 'showAnswerBtn') {
                     console.log('显示答案按钮被点击');
                     showAnswer();
+                } else if (e.target.id === 'addToWrongBtn') {
+                    manualAddToWrongQuestions();
                 } else if (e.target.id === 'toggleAllAnswersBtn') {
                     toggleAllAnswers();
                 } else if (e.target.id === 'deleteAllWrongBtn') {
@@ -2906,6 +3098,8 @@
                     toggleAnswer(e.target);
                 } else if (e.target.classList.contains('remove-wrong-question')) {
                     removeWrongQuestion(e.target.dataset.index);
+                } else if (e.target.classList.contains('add-result-to-wrong-btn')) {
+                    addResultToWrongQuestionsByIndex(e.target.dataset.index);
                 }
             });
             

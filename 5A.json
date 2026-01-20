@@ -1039,6 +1039,1306 @@
             "tags": [
                 "Module 2"
             ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "左转"
+            },
+            "answers": [
+                "turn left"
+            ],
+            "analysis": "固定搭配，left为方位副词，前不加冠词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在第一个十字路口"
+            },
+            "answers": [
+                "at the first crossing"
+            ],
+            "analysis": "序数词first前加the，小地点前用介词at",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "穿过Park街"
+            },
+            "answers": [
+                "cross Park Street"
+            ],
+            "analysis": "专有街道名首字母大写，cross为动词表穿过",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "沿着。。。走"
+            },
+            "answers": [
+                "walk along"
+            ],
+            "analysis": "固定搭配，along为介词，后接地点名词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "城市电影院"
+            },
+            "answers": [
+                "City Cinema"
+            ],
+            "analysis": "专有名词，每个实词首字母大写",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "上海博物馆"
+            },
+            "answers": [
+                "Shanghai Museum"
+            ],
+            "analysis": "专有地名+机构名，首字母均大写",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "医院和旅馆"
+            },
+            "answers": [
+                "a hospital and a hotel"
+            ],
+            "analysis": "两个单数名词并列，各前加不定冠词a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "银行和面包房"
+            },
+            "answers": [
+                "a bank and a bakery"
+            ],
+            "analysis": "两个单数可数名词并列，分别加不定冠词a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在我们右边"
+            },
+            "answers": [
+                "on our right"
+            ],
+            "analysis": "固定搭配on one's right，our为形容词性物主代词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一张．.．的地图"
+            },
+            "answers": [
+                "a map of"
+            ],
+            "analysis": "固定结构a map of+地点，表某地的地图",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在那以后"
+            },
+            "answers": [
+                "after that"
+            ],
+            "analysis": "固定短语，that为指示代词，表上文提及的事",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在海洋世界"
+            },
+            "answers": [
+                "at Ocean World"
+            ],
+            "analysis": "专有名词首字母大写，小地点前用介词at",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "鳄鱼还是海豚"
+            },
+            "answers": [
+                "a crocodile or a dolphin"
+            ],
+            "analysis": "选择疑问句中单数名词并列，各前加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "害怕鲨鱼"
+            },
+            "answers": [
+                "be afraid of sharks"
+            ],
+            "analysis": "be afraid of后接可数名词复数表泛指，shark变sharks",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "寻找餐厅"
+            },
+            "answers": [
+                "look for a restaurant"
+            ],
+            "analysis": "look for表寻找，restaurant为单数可数名词加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "穿上"
+            },
+            "answers": [
+                "put on"
+            ],
+            "analysis": "固定短语，表动作，后接衣物名词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "试穿"
+            },
+            "answers": [
+                "try on"
+            ],
+            "analysis": "固定短语，代词作宾语放on前，名词可放前后",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在一家服装店"
+            },
+            "answers": [
+                "at a clothes shop"
+            ],
+            "analysis": "clothes修饰shop表用途，小地点前用介词at",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "纽扣和拉链"
+            },
+            "answers": [
+                "buttons and a zip"
+            ],
+            "analysis": "button常用复数，zip为单数加不定冠词a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "这些口袋"
+            },
+            "answers": [
+                "these pockets"
+            ],
+            "analysis": "these后接可数名词复数，pocket变pockets",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "买下蓝色的那件"
+            },
+            "answers": [
+                "take the blue one"
+            ],
+            "analysis": "the表特指，one代指前文提及的衣物，避免重复",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "哪条裤子"
+            },
+            "answers": [
+                "which pair of trousers"
+            ],
+            "analysis": "trousers为复数，用which pair of表具体数量",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "微笑着点头"
+            },
+            "answers": [
+                "nod with a smile"
+            ],
+            "analysis": "with表伴随，a smile表泛指一种微笑",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "保持沉默"
+            },
+            "answers": [
+                "keep silent"
+            ],
+            "analysis": "固定搭配keep+形容词，表保持某种状态",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一丝不挂"
+            },
+            "answers": [
+                "have nothing on"
+            ],
+            "analysis": "固定短语，on为副词，表穿着的状态",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "拜见皇帝"
+            },
+            "answers": [
+                "visit the emperor"
+            ],
+            "analysis": "emperor为特指的头衔，前加定冠词the",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "数以百计的"
+            },
+            "answers": [
+                "hundreds of"
+            ],
+            "analysis": "固定短语，hundred后加s接of，表不确定的数百",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "吃药"
+            },
+            "answers": [
+                "take some medicine"
+            ],
+            "analysis": "medicine为不可数名词，用some修饰，take表服用",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "好好休息"
+            },
+            "answers": [
+                "have a good rest"
+            ],
+            "analysis": "固定短语，rest为可数名词，加不定冠词a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "去看医生"
+            },
+            "answers": [
+                "go to see the doctor"
+            ],
+            "analysis": "the doctor表泛指医生这一职业，加定冠词the",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "去看牙医"
+            },
+            "answers": [
+                "go to see the dentist"
+            ],
+            "analysis": "the dentist表泛指牙医职业，加定冠词the",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "穿暖和的衣服"
+            },
+            "answers": [
+                "wear warm clothes"
+            ],
+            "analysis": "wear表穿着的状态，clothes为复数表衣物总称",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "喝大量的水"
+            },
+            "answers": [
+                "drink a lot of water"
+            ],
+            "analysis": "a lot of可修饰不可数名词，water为不可数名词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "睡觉前吃东西"
+            },
+            "answers": [
+                "eat before bed"
+            ],
+            "analysis": "bed为地点副词，前不加介词，表睡前",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "吃太多的糖"
+            },
+            "answers": [
+                "eat too many sweets"
+            ],
+            "analysis": "too many修饰可数名词复数，sweet表糖果用复数",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "喝太多软饮料"
+            },
+            "answers": [
+                "drink too many soft drinks"
+            ],
+            "analysis": "soft drink为可数名词，too many后接其复数形式",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在牙医诊所"
+            },
+            "answers": [
+                "at the dentist's"
+            ],
+            "analysis": "所有格形式表场所，the表特指，小地点用at",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一个月多少次"
+            },
+            "answers": [
+                "how many times a month"
+            ],
+            "analysis": "how many后接可数名词复数times，频率结构固定",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "牙痛"
+            },
+            "answers": [
+                "have a toothache"
+            ],
+            "analysis": "固定短语，身体疼痛用have a+病症名词",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "发烧"
+            },
+            "answers": [
+                "have a fever"
+            ],
+            "analysis": "固定短语，fever前加不定冠词a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "咳嗽"
+            },
+            "answers": [
+                "have a cough"
+            ],
+            "analysis": "固定短语，表患咳嗽，cough前加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "感冒"
+            },
+            "answers": [
+                "have a cold"
+            ],
+            "analysis": "固定短语，表患感冒，cold前必须加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在一个秘密的山洞里"
+            },
+            "answers": [
+                "in a secret cave"
+            ],
+            "analysis": "大地点/空间前用介词in，secret修饰cave加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "世界上最好的食物"
+            },
+            "answers": [
+                "the best food in the world"
+            ],
+            "analysis": "最高级best前加the，in the world为固定搭配",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "把。。。拔下来"
+            },
+            "answers": [
+                "pull out"
+            ],
+            "analysis": "固定短语，代词作宾语放out前，名词可放前后",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "没有牙齿的老虎"
+            },
+            "answers": [
+                "a toothless tiger"
+            ],
+            "analysis": "toothless为形容词修饰tiger，辅音音素开头加a",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一大袋糖"
+            },
+            "answers": [
+                "a large packet of sweets"
+            ],
+            "analysis": "a packet of表一袋，sweets为可数名词用复数",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "森林之王"
+            },
+            "answers": [
+                "the king of the forest"
+            ],
+            "analysis": "表特指的头衔加the，of the forest表所属",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "对你的牙齿不好"
+            },
+            "answers": [
+                "be bad for your teeth"
+            ],
+            "analysis": "固定短语be bad for，tooth的复数为teeth",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "把他们自己藏起来"
+            },
+            "answers": [
+                "hide themselves"
+            ],
+            "analysis": "反身代词themselves作宾语，代指they",
+            "tags": [
+                "Module 3"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "沏茶"
+            },
+            "answers": [
+                "make some tea"
+            ],
+            "analysis": "固定搭配make tea表沏茶，tea为不可数名词用some修饰；记忆法：make表制作，茶是饮品不可数，直接搭配无需变形",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "烧水"
+            },
+            "answers": [
+                "boil the water"
+            ],
+            "analysis": "boil为动词表煮沸，water表特指要烧的水加the；记忆法：boil拆分b-o-i-l，发音/bɔɪl/，和“煮沸”的动作联想记忆，water是基础词牢记拼写",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "把。。。倒入。。。"
+            },
+            "answers": [
+                "pour...into..."
+            ],
+            "analysis": "固定介词搭配pour into表倒入，pour为及物动词；记忆法：pour拼写p-o-u-r，发音/pɔː(r)/，联想“泼”水的动作，into是in+to组合，易记拼写",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "把。。。放在。。。里"
+            },
+            "answers": [
+                "put...in..."
+            ],
+            "analysis": "put为动词表放置，in表在内部，后接地点；记忆法：put是短单词p-u-t，无变形，in是基础介词，组合搭配无需特殊记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "长江"
+            },
+            "answers": [
+                "the Yangtze River"
+            ],
+            "analysis": "专有河流名，前加the，Yangtze为固定译法首字母大写；记忆法：Yangtze按字母顺序Y-a-n-g-t-z-e记忆，River表河流首字母大写，专有名词必加the",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "三峡"
+            },
+            "answers": [
+                "the Three Gorges"
+            ],
+            "analysis": "专有地名前加the，Three是数词，Gorge变复数Gorges；记忆法：Three是基础数词，Gorge拆分g-o-r-g-e，复数加s，专有名词加the固定规则",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "黄浦江"
+            },
+            "answers": [
+                "the Huangpu River"
+            ],
+            "analysis": "专有河流名前加the，Huangpu为拼音译法首字母大写；记忆法：Huangpu按拼音h-u-a-n-g-p-u记忆，直接拼写成英文，River首字母大写",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "流经上海"
+            },
+            "answers": [
+                "run through Shanghai"
+            ],
+            "analysis": "run through为固定搭配表流经，Shanghai是专有地名首字母大写；记忆法：run是基础动词，through拆分t-h-r-o-u-g-h，联想“穿过”事物内部，和across区分记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "流入大海"
+            },
+            "answers": [
+                "run into the sea"
+            ],
+            "analysis": "run into为固定搭配表流入，the sea表特指大海；记忆法：into是in+to，表进入内部，sea是短单词s-e-a，和see区分，sea表大海，see表看见",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "留下山脉"
+            },
+            "answers": [
+                "run down the mountains"
+            ],
+            "analysis": "run down为固定搭配表顺流而下，mountain用复数加the；记忆法：down是基础介词表向下，mountain拆分m-o-u-n-t-a-i-n，复数直接加s，按音节记忆moun-tain",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "汇合了更多的水"
+            },
+            "answers": [
+                "meet more water"
+            ],
+            "analysis": "meet表汇合、相遇，water为不可数名词，more修饰不可数名词；记忆法：meet是短单词m-e-e-t，无变形，more是much/many的比较级，固定拼写",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在中国的西部"
+            },
+            "answers": [
+                "in the west of China"
+            ],
+            "analysis": "in the west of为固定结构表在某地西部，China首字母大写；记忆法：west拆分w-e-s-t，和east/north/south一起按方位词组团记忆，首字母W/E/N/S区分",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "。。。的一部分"
+            },
+            "answers": [
+                "part of..."
+            ],
+            "analysis": "part of为固定搭配表部分，part为单数名词；记忆法：part是短单词p-a-r-t，发音/pɑːt/，和“部分”含义直接联想，无复杂拼写",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "升到空中"
+            },
+            "answers": [
+                "rise up to the sky"
+            ],
+            "analysis": "rise为不及物动词表上升，up to表朝向，the sky表特指天空；记忆法：rise拆分r-i-s-e，和raise区分，rise无宾语，raise有宾语，sky是s-k-y，短单词易记",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "飞过河流山脉"
+            },
+            "answers": [
+                "fly over rivers and mountains"
+            ],
+            "analysis": "fly over为固定搭配表从上方飞过，rivers和mountains均用复数表泛指；记忆法：fly是f-l-y，over拆分o-v-e-r，表在上方，和through（内部）区分记忆，名词复数直接加s",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "落到地面上"
+            },
+            "answers": [
+                "fall down to the ground"
+            ],
+            "analysis": "fall down为固定搭配表落下，the ground表特指地面；记忆法：fall拆分f-a-l-l，双写l，down表向下，ground拆分g-r-o-u-n-d，按音节grou-nd记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "（风）轻轻地吹"
+            },
+            "answers": [
+                "blow gently"
+            ],
+            "analysis": "blow为动词表吹，gently为副词修饰动词放其后；记忆法：blow拆分b-l-o-w，发音/bləʊ/，gently由gentle+ly变来，gentle拆分g-e-n-t-l-e，去e加ly",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "（风）猛烈地吹"
+            },
+            "answers": [
+                "blow strongly"
+            ],
+            "analysis": "blow为动词，strongly为副词修饰吹的状态；记忆法：strongly由strong+ly变来，strong拆分s-t-r-o-n-g，直接加ly，blow和flow一起联想记忆，均为ow结尾",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "慢慢地转动"
+            },
+            "answers": [
+                "move slowly"
+            ],
+            "analysis": "move为动词表转动，slowly为副词修饰动词；记忆法：slowly由slow+ly变来，slow拆分s-l-o-w，直接加ly，move是m-o-v-e，去e加ing但变副词无需变形",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "飞快地转动"
+            },
+            "answers": [
+                "move quickly"
+            ],
+            "analysis": "move为动词，quickly为副词修饰转动的速度；记忆法：quickly由quick+ly变来，quick拆分q-u-i-c-k，直接加ly，和slowly形成反义词汇组团记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "玩得开心"
+            },
+            "answers": [
+                "play happily"
+            ],
+            "analysis": "play为动词，happily为副词修饰玩的状态；记忆法：happily由happy变来，happy拆分h-a-p-p-y，变y为i加ly，双写p牢记，和sadly反义记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "看窗外"
+            },
+            "answers": [
+                "look out of the window"
+            ],
+            "analysis": "look out of为固定搭配表向窗外看，the window表特指；记忆法：look是基础动词，out of是固定介词搭配，表从...向外，window拆分win-dow，按音节记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "大雨"
+            },
+            "answers": [
+                "some heavy rain"
+            ],
+            "analysis": "heavy为形容词修饰不可数名词rain，some表一些；记忆法：heavy拆分h-e-a-v-y，发音/ˈhevi/，和light反义，rain是r-a-i-n，不可数名词牢记",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "雨下得很大"
+            },
+            "answers": [
+                "rain heavily"
+            ],
+            "analysis": "rain为动词表下雨，heavily为副词修饰动词，是heavy的副词形式；记忆法：heavily由heavy变来，变y为i加ly，和rain heavily固定搭配记忆，与snow heavily组团",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "大风"
+            },
+            "answers": [
+                "a strong wind"
+            ],
+            "analysis": "strong为形容词修饰可数名词wind，加不定冠词a；记忆法：strong是基础形容词，wind拆分w-i-n-d，短单词，和a strong wind固定搭配记忆，与a light wind反义",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "用木头做的"
+            },
+            "answers": [
+                "be made of wood"
+            ],
+            "analysis": "be made of为固定搭配表由...制成（看得见原材料），wood为不可数名词；记忆法：made是make的过去分词，of是基础介词，wood拆分w-o-o-d，双o，和wool区分记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "玻璃风铃"
+            },
+            "answers": [
+                "a glass wind-bell"
+            ],
+            "analysis": "glass作定语修饰wind-bell，wind-bell为合成名词，加a；记忆法：glass拆分g-l-a-s-s，双s，wind-bell由wind+bell连字符组成，分别记忆两个基础词",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "风的声音"
+            },
+            "answers": [
+                "the sound of the wind"
+            ],
+            "analysis": "of表所属，the sound和the wind均表特指；记忆法：sound拆分s-o-u-n-d，wind是w-i-n-d，两个词均为短单词，of所属结构固定，直接搭配",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "用火安全"
+            },
+            "answers": [
+                "fire safety"
+            ],
+            "analysis": "fire作定语修饰safety，均为名词；记忆法：fire拆分f-i-r-e，safety由safe变来，safe拆分s-a-f-e，去e加ty，名词后缀ty牢记",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "小心"
+            },
+            "answers": [
+                "be careful"
+            ],
+            "analysis": "固定搭配be careful表小心，careful为形容词作表语；记忆法：careful由care+ful变来，care拆分c-a-r-e，形容词后缀ful，和careless反义记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "玩火柴"
+            },
+            "answers": [
+                "play with matches"
+            ],
+            "analysis": "play with为固定搭配表玩某物，match的复数为matches；记忆法：match拆分m-a-t-c-h，复数加es（ch结尾），play with是固定搭配，牢记后接具体事物",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "在火的附近玩耍"
+            },
+            "answers": [
+                "play near fires"
+            ],
+            "analysis": "near表在附近，fire用复数表泛指各类火；记忆法：near是基础介词，fire拆分f-i-r-e，复数直接加s，play near+地点/事物，固定搭配",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "点起篝火"
+            },
+            "answers": [
+                "start campfires"
+            ],
+            "analysis": "start为动词表点燃，campfire的复数为campfires；记忆法：campfire是合成名词camp+fire，分别记忆两个词，复数直接加s，start是基础动词，和light组团表“点燃”",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "一场大火"
+            },
+            "answers": [
+                "a big fire"
+            ],
+            "analysis": "big为形容词修饰可数名词fire，加不定冠词a；记忆法：big是基础形容词，fire表具体一场火时为可数名词，a big fire固定搭配，和a small fire反义",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "浓烟"
+            },
+            "answers": [
+                "thick smoke"
+            ],
+            "analysis": "thick为形容词修饰不可数名词smoke；记忆法：thick拆分t-h-i-c-k，和thin反义，smoke拆分s-m-o-k-e，不可数名词，发音/sməʊk/，和smell区分",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "灭火"
+            },
+            "answers": [
+                "fight the fire"
+            ],
+            "analysis": "fight the fire为固定搭配表灭火，the fire表特指具体的火；记忆法：fight拆分f-i-g-h-t，发音/faɪt/，和“战斗、扑灭”联想，the fire特指，固定搭配",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "（火）熄灭"
+            },
+            "answers": [
+                "die down"
+            ],
+            "analysis": "固定短语die down表（火势、声音）逐渐熄灭；记忆法：die是d-i-e，down是基础副词，两个短单词组合，联想“慢慢倒下、熄灭”的状态记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "石器时代"
+            },
+            "answers": [
+                "the Stone Age"
+            ],
+            "analysis": "专有历史时期前加the，Stone和Age首字母均大写；记忆法：Stone拆分s-t-o-n-e，Age拆分a-g-e，两个基础词，专有名词首字母大写+加the，固定规则",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "把。。。扔掉"
+            },
+            "answers": [
+                "throw...away"
+            ],
+            "analysis": "固定短语throw away表扔掉，代词作宾语放中间；记忆法：throw拆分t-h-r-o-w，away是a-way，合成副词，联想“扔向远处”的动作记忆搭配",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "热和光"
+            },
+            "answers": [
+                "heat and light"
+            ],
+            "analysis": "heat表热量，light表光线，均为不可数名词；记忆法：heat拆分h-e-a-t，light拆分l-i-g-h-t，两个词均为短单词，按发音和含义直接联想记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "生的肉"
+            },
+            "answers": [
+                "raw meat"
+            ],
+            "analysis": "raw为形容词修饰不可数名词meat；记忆法：raw拆分r-a-w，短单词，和cooked反义，meat拆分m-e-a-t，和meet同音不同形，对比记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "首先"
+            },
+            "answers": [
+                "first"
+            ],
+            "analysis": "序数词first表首先，可作副词；记忆法：first是one的序数词，拆分f-i-r-s-t，和one/two/three的序数词一起组团记忆，1st缩写辅助",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "接下来"
+            },
+            "answers": [
+                "next"
+            ],
+            "analysis": "副词next表接下来，表顺序；记忆法：next拆分n-e-x-t，短单词，和first/then形成顺序词汇链，组团记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "然后"
+            },
+            "answers": [
+                "then"
+            ],
+            "analysis": "副词then表然后，连接动作顺序；记忆法：then拆分t-h-e-n，短单词，和first/next/finally组成顺序副词组，反复背诵记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "那之后"
+            },
+            "answers": [
+                "after that"
+            ],
+            "analysis": "after为介词，that为指示代词，表在某事之后；记忆法：after是基础介词，that是基础代词，两个词组合，无复杂拼写，固定搭配",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "最后"
+            },
+            "answers": [
+                "finally"
+            ],
+            "analysis": "副词finally表最后，是final的副词形式；记忆法：finally由final+ly变来，final拆分f-i-n-a-l，形容词，直接加ly，和at last/in the end同义记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "勇敢的，勇敢地"
+            },
+            "answers": [
+                "brave,bravely"
+            ],
+            "analysis": "brave是形容词，bravely是其副词形式，去e加ly；记忆法：brave拆分b-r-a-v-e，副词变y为e加ly，和afraid反义，形容词+副词形式一起记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "幸运的，幸运地"
+            },
+            "answers": [
+                "lucky,luckily"
+            ],
+            "analysis": "lucky是形容词，luckily是其副词形式，变y为i加ly；记忆法：lucky由luck+y变来，luck拆分l-u-c-k，形容词后缀y，副词变y为i加ly，和unlucky反义记忆",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "必须，禁止"
+            },
+            "answers": [
+                "must,mustn't"
+            ],
+            "analysis": "must是情态动词表必须，mustn't是其否定形式表禁止，must+not缩写；记忆法：must是短单词m-u-s-t，mustn't拆分must+not，缩写为mustn't，牢记撇号位置",
+            "tags": [
+                "Module 4"
+            ]
+        },
+        {
+            "type": "spelling",
+            "content": {
+                "original": "烟，冒烟的"
+            },
+            "answers": [
+                "smoke,smoky"
+            ],
+            "analysis": "smoke是名词/动词，smoky是其形容词形式，加y；记忆法：smoke拆分s-m-o-k-e，形容词加y变smoky，名词+形容词形式对比，按后缀y记忆词性",
+            "tags": [
+                "Module 4"
+            ]
         }
     ]
 }
